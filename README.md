@@ -24,7 +24,7 @@ Here is the link to [Persian tweets emotional dataset](https://www.kaggle.com/da
 This project uses the ParsBERT model, a pre-trained BERT model fine-tuned on Persian text. More information about ParsBERT can be found [here](https://github.com/HooshvareLab/ParsBERT).
 
 ## Results
-My emotion detection model on Persian tweets performed with a 93% accuracy.
+My emotion detection model on Persian tweets performed with a 94.7% accuracy.
 
 ## Acknowledgements
 - [HooshvareLab](https://github.com/HooshvareLab) for developing ParsBERT.
